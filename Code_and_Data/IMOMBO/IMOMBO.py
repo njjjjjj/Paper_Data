@@ -14,7 +14,7 @@ T = 50
 # 巡回次数
 FN = 5
 # 最大外部存档数
-maxNAP = 20
+maxNAP = 40
 
 def maincode():
     # 种群初始化
