@@ -11,7 +11,7 @@ from pymoo.vendor import hv as HH
 #迭代次数
 T=100
 #种群规模
-PN=30
+PN=60
 #代码修改补充内容
 # 交叉概率=0.8
 crossover_prob=0.8
