@@ -9,8 +9,8 @@ from pymoo.vendor import hv as HH
 
 #MOABC算法参数
 PN=30
-T = 100
-limit=10
+T = 50
+limit=40
 #外部档案的数量
 maxNAP=20
 
